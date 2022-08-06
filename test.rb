@@ -11,3 +11,7 @@ end
 Person.girl
 
 Person.new.girl
+
+name = "Amine"
+
+puts name[0, 4]
